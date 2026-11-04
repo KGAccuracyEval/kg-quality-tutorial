@@ -102,7 +102,7 @@ Sources: DBpedia-Entity v2 from Hasibi et al. (SIGIR 2017); DBpedia-Fact from Ha
 
 ## Annotated reading list
 
-Grouped by the part of the tutorial where each work is mainly discussed; alphabetical by first author within each part. Papers presented in the tutorial are marked with ★ and linked in the table above.
+Grouped by the part of the tutorial where each work is mainly discussed; alphabetical by first author within each part.
 
 ### Part 1. KG Construction and Data Quality Challenges
 
@@ -121,9 +121,9 @@ Grouped by the part of the tutorial where each work is mainly discussed; alphabe
   Industrial platform for continuous KG construction and serving.
 - P. D. Karp. How much does curation cost? Database 2016.
   Cost of manual curation in biological databases; context for the cost structure in 1.2.
-- ★ S. Marchesin et al. Building a Large Gene Expression-Cancer Knowledge Base with Limited Human Annotations. Database 2023.
+- S. Marchesin et al. Building a Large Gene Expression-Cancer Knowledge Base with Limited Human Annotations. Database 2023.
   CORE: distant supervision and active learning to build a domain KB with a small expert annotation budget.
-- ★ S. Marchesin et al. Cost-Effective Quality Evaluation for Evolving Knowledge Graphs. ACM J. Data Inf. Qual. 2026.
+- S. Marchesin et al. Cost-Effective Quality Evaluation for Evolving Knowledge Graphs. ACM J. Data Inf. Qual. 2026.
   Requirements and open challenges for the quality evaluation of evolving KGs.
 - N. F. Noy et al. Industry-scale Knowledge Graphs: Lessons and Challenges. Commun. ACM 2019.
   Lessons from KGs built and maintained at five companies.
@@ -173,18 +173,18 @@ Grouped by the part of the tutorial where each work is mainly discussed; alphabe
 - D. Kraft. A Software Package for Sequential Quadratic Programming. DLR German Aerospace Center, Institute for Flight Mechanics, 1988.
 - ★ S. Marchesin and G. Silvello. Credible Intervals for Knowledge Graph Accuracy Estimation. Proc. ACM Manag. Data (SIGMOD) 2025.
   Bayesian HPD credible intervals and the adaptive aHPD procedure.
-- ★ S. Marchesin and G. Silvello. Efficient and Reliable Estimation of Knowledge Graph Accuracy. PVLDB 2024.
+- S. Marchesin and G. Silvello. Efficient and Reliable Estimation of Knowledge Graph Accuracy. PVLDB 2024.
   Wilson intervals for cluster and stratified designs; replaces the Wald interval in KG accuracy estimation.
-- ★ S. Marchesin, G. Silvello, and O. Alonso. Utility-Oriented Knowledge Graph Accuracy Estimation with Limited Annotations: A Case Study on DBpedia. HCOMP 2024.
+- S. Marchesin, G. Silvello, and O. Alonso. Utility-Oriented Knowledge Graph Accuracy Estimation with Limited Annotations: A Case Study on DBpedia. HCOMP 2024.
   Utility of facts from SPARQL query logs and utility-based stratification on DBpedia.
-- ★ S. Marchesin, M. Ceccarello, and G. Silvello. LLMs as Stratification Signals for KG Accuracy Evaluation. PVLDB 2026.
+- S. Marchesin, M. Ceccarello, and G. Silvello. LLMs as Stratification Signals for KG Accuracy Evaluation. PVLDB 2026.
   Aggregated LLM judgments as stratification signals, distilled to scale to large KGs.
 - R. D. Morey et al. The Fallacy of Placing Confidence in Confidence Intervals. Psychon. Bull. Rev. 2016.
 - P. Ojha and P. Talukdar. KGEval: Accuracy Estimation of Automatically Constructed Knowledge Graphs. EMNLP 2017.
   Source of the YAGO and NELL samples used in Part 2.
 - F. Petroni et al. Language Models as Knowledge Bases? EMNLP-IJCNLP 2019.
 - J. Piñero et al. The DisGeNET knowledge platform for disease genomics: 2019 update. Nucleic Acids Res. 2020.
-- ★ F. Shami, S. Marchesin, and G. Silvello. Benchmarking Large Language Models for Knowledge Graph Validation. EDBT 2026.
+- F. Shami, S. Marchesin, and G. Silvello. Benchmarking Large Language Models for Knowledge Graph Validation. EDBT 2026.
   FactCheck: LLMs as fact validators with internal knowledge, retrieval augmentation, and multi-model consensus.
 - C. Stadler et al. LSQ 2.0: A Linked Dataset of SPARQL Query Logs. Semantic Web 2024.
   SPARQL query logs used to derive the utility of DBpedia facts in 2.3.
@@ -211,7 +211,7 @@ Grouped by the part of the tutorial where each work is mainly discussed; alphabe
 - F. Hasibi, K. Balog, and S. E. Bratsberg. Dynamic Factual Summaries for Entity Cards. SIGIR 2017.
   Query-dependent fact ranking for entity cards; source of the DBpedia-Fact collection.
 - N. Q. V. Hung et al. An Evaluation of Aggregation Techniques in Crowdsourcing. WISE 2013.
-- ★ O. Irrera et al. Scaling Trust: Veracity-Driven Defect Detection in Entity Search. CIKM 2025.
+- O. Irrera et al. Scaling Trust: Veracity-Driven Defect Detection in Entity Search. CIKM 2025.
   eRank for entity-level veracity in ranking and ALADDIN for fact-level defect detection with active learning.
 - Y. Li et al. A Survey on Truth Discovery. SIGKDD Explor. 2015.
 - ★ S. Marchesin, G. Silvello, and O. Alonso. Veracity Estimation for Entity-Oriented Search with Knowledge Graphs. CIKM 2024.
