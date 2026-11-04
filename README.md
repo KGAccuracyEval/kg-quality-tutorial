@@ -171,7 +171,7 @@ Grouped by the part of the tutorial where each work is mainly discussed; alphabe
 - L. Kish. Methods for Design Effects. J. Off. Stat. 1995.
 - L. Kish. Survey Sampling. Wiley 1965.
 - D. Kraft. A Software Package for Sequential Quadratic Programming. DLR German Aerospace Center, Institute for Flight Mechanics, 1988.
-- ★ S. Marchesin and G. Silvello. Credible Intervals for Knowledge Graph Accuracy Estimation. Proc. ACM Manag. Data (SIGMOD) 2025.
+- S. Marchesin and G. Silvello. Credible Intervals for Knowledge Graph Accuracy Estimation. Proc. ACM Manag. Data (SIGMOD) 2025.
   Bayesian HPD credible intervals and the adaptive aHPD procedure.
 - S. Marchesin and G. Silvello. Efficient and Reliable Estimation of Knowledge Graph Accuracy. PVLDB 2024.
   Wilson intervals for cluster and stratified designs; replaces the Wald interval in KG accuracy estimation.
