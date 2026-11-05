@@ -6,7 +6,7 @@ Half-day tutorial (3 hours) at **CIKM 2026**, Rome, Italy.
 
 - [Stefano Marchesin](https://www.dei.unipd.it/~marches1/), University of Padua, Italy
 - [Gianmaria Silvello](https://www.dei.unipd.it/~silvello/), University of Padua, Italy
-- Omar Alonso, Amazon, USA
+- [Omar Alonso](https://oalonso.github.io/), Amazon, USA
 
 ## Abstract
 
